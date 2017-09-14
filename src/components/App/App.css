@@ -1,1 +1,12 @@
+.App {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto Mono', monospace;
 
+  justify-content: center;
+}
+
+/*body {
+  font-family: 'Rokkitt', serif;
+}*/

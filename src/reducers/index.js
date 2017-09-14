@@ -1,8 +1,9 @@
 import { combineReducers } from 'redux';
-import users from './users'
+import { users, quizGen } from './users'
 
 const reducers = combineReducers({
-  users
+  users,
+  quizGen
 })
 
 export default reducers;
